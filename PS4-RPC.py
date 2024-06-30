@@ -35,13 +35,17 @@ RPC.connect()
 while True:
     try:
         with Telnet(ip_address, 3232) as tn:
-            tn.read_until(b"[DISCORD]")
+            tn.read_until(b"[SL] AppFocusChanged ")
 
             # Read the next 10 characters
             data = tn.read_until(b"\n")
-            CleanData = data.decode('utf-8').strip()
-            game_title = print_game_title(CleanData)
 
+            HalfCleanData = data.decode('utf-8').strip()
+        
+            UnCleanData = re.sub(r"[\([{})\]]", "", HalfCleanData) 
+            CleanData = UnCleanData[13:] 
+            game_title = print_game_title(CleanData)
+            print(CleanData)
             if game_title:
                 RPC.update(
                     details="Playing:",  # Example details
