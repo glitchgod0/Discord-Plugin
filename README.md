@@ -19,7 +19,7 @@ This is the list of game Title ID's, it is formated as
 * Homebrew (Apps and Games)
 
 ## Current Flaws
-* Games list is a bit empty atm (Open PR's!!)
+* Games list is a bit empty currently (Open PR's!!)
 * Requires a plugin, could probably be done through other things in the Klog.
 * Uses the Klog, Due to a limitation, only 1 client can access the Klog at once.
 
