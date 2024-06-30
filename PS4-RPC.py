@@ -4,12 +4,6 @@ import re, time
 from pypresence import Presence
 import time
 
-File = open("AppID.txt", "r")
-ID = File.readline(1)
-RPC = Presence(ID)
-HOST = File.readline(2)
-
-
 # Load game titles from JSON file
 with open('ps4IDs.json') as f:
     game_titles = json.load(f)
@@ -20,12 +14,27 @@ def print_game_title(title_id):
             return game['Title']
     return None
 
+# File path
+file_path = 'AppIdp.json'
+
+# Read JSON data from file
+with open(file_path, 'r') as f:
+    json_data = json.load(f)
+
+# Assuming there's only one object in the list, as in your example
+if len(json_data) > 0:
+    # Access AppID and IP
+    app_id = json_data[0]["AppID"]
+    ip_address = json_data[0]["IP"]
+else:
+    print("No Discord app ID or IP adress found")
 
 
+RPC = Presence(app_id)
 RPC.connect()
 while True:
     try:
-        with Telnet(HOST, 3232) as tn:
+        with Telnet(ip_address, 3232) as tn:
             tn.read_until(b"[DISCORD]")
 
             # Read the next 10 characters
