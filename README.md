@@ -1,4 +1,4 @@
-# Disord-Plugin
+# Discord-Plugin
 GoldHEN Plugin and python script used for rich presence on jailbroken PS4 systems.
 
 ## Usage
