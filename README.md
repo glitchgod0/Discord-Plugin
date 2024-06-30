@@ -8,7 +8,7 @@ GoldHEN Plugin and python script used for rich presence on jailbroken PS4 system
 /data/GoldHEN/plugins/Discord-Plugin.prx=true
 ```
 
-Put your PS4 IP and Discord Application ID's (they can be generated [here] (https://discord.com/developers/)) in the AppIdp.json file 
+Put your PS4 IP and Discord Application ID's (they can be generated a https://discord.com/developers/) in the AppIdp.json file 
 
 
 ## ps4IDS.json
