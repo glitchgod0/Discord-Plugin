@@ -1,0 +1,11 @@
+.vs/
+bin/
+build/
+ps4include/
+.vscode/
+.DS_Store
+*.elf
+*.o
+*.prx
+*.sprx
+AppID.txt
