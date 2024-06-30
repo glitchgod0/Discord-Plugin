@@ -272,6 +272,7 @@
   { "TitleID": "CUSA00113", "Title": "Need for Speed: Rivals" },
   { "TitleID": "CUSA00561", "Title": "NHL 15" },
   { "TitleID": "CUSA01924", "Title": "NHL 16" },
+  { "TitleID": "CUSA05996", "Title": "Night in the Woods" },
   { "TitleID": "CUSA00255", "Title": "Nobunaga's Nozomi Creation" },
   { "TitleID": "CUSA01081", "Title": "Nobunaga's Nozomi Creating with Power Up Kit" },
   { "TitleID": "CUSA00655", "Title": "Octodad: Dadliest Catch" },
@@ -282,24 +283,38 @@
   { "TitleID": "CUSA00785", "Title": "The Order: 1886" },
   { "TitleID": "CUSA00070", "Title": "The Order: 1886" },
   { "TitleID": "CUSA00409", "Title": "Outlast" },
-
-
-
-
-
-
-
-
-
-
- 
-
-   
-  { "TitleID": "CUSA05996", "Title": "Night in the Woods" },
   { "TitleID": "CUSA01127", "Title": "P.T." },
-  { "TitleID": "CUSA05289", "Title": "PaRappa The Rapper Remastered" },
-  { "TitleID": "CUSA20245", "Title": "Project Oak Tree" },
+  { "TitleID": "CUSA05289", "Title": "PaRappa The Rapper Remastered" },  
+  { "TitleID": "PCAS05025", "Title": "Patapon Remaster" },
+  { "TitleID": "CUSA00105", "Title": "Pinball Arcade" },
+  { "TitleID": "CUSA00146", "Title": "PlanetSide 2" },
+  { "TitleID": "CUSA00584", "Title": "Plants vs. Zombies: Garden Warfare" },
+  { "TitleID": "CISA00485", "Title": "Plants vs. Zombies: Garden Warfare" },
+  { "TitleID": "CUSA00356", "Title": "PsychoBreak" },
+  { "TitleID": "CUSA01042", "Title": "Pro Evolution Soccer 2015" },
+  { "TitleID": "CUSA01076", "Title": "Pro Evolution Soccer 2015" },
+  { "TitleID": "CUSA02637", "Title": "Pro Evolution Soccer 2016" },
+  { "TitleID": "CUSA02640", "Title": "Pro Evolution Soccer 2016" },
+  { "TitleID": "CUSA00940", "Title": "Project CARS" },
+  { "TitleID": "CUSA20245", "Title": "Project Oak Tree" },  
+  { "TitleID": "NPEJ00341", "Title": "Puddle" },
+  { "TitleID": "CUSA00216", "Title": "Pure Chess" },
+  { "TitleID": "CUSA01749", "Title": "Pure Chess" },
+  { "TitleID": "CUSA01748", "Title": "Pure Pool" },
+  { "TitleID": "NPEJ00327", "Title": "Putty Squad" },
+  { "TitleID": "CUSA00451", "Title": "Putty Squad" },
+  { "TitleID": "CUSA00451", "Title": "Putty Squad Cross-Buy" },
+  { "TitleID": "NPEJ00327", "Title": "Putty Squad Cross-Buy" },
+  { "TitleID": "CUSA01005", "Title": "Puyo Puyo Tetris" },
   { "TitleID": "CUSA24366", "Title": "Puyo Puyo Tetris 2" },
+
+
+
+
+
+
+
+  
   { "TitleID": "CUSA02901", "Title": "Rock Band 4" },
   { "TitleID": "CUSA05674", "Title": "Sonic Forces" },
   { "TitleID": "CUSA30448", "Title": "Sonic Origins" },
