@@ -1,12 +1,16 @@
-# AMP16DX-Plugin
-GoldHEN Plugin used for loading AMP16DX files, heavily based on the RB4DX-Plugin (1.0 debug fork)
+# Disord-Plugin
+GoldHEN Plugin and python script used for rich presence on jailbroken PS4 systems.
 
 ## Usage
 
-* Put this code under [default] of `plugins.ini`
+* Put this code under [default] of `/data/GoldHEN/plugins.ini`
 ```ini
 /data/GoldHEN/plugins/Discord-Plugin.prx=true
 ```
+
+## Current Flaws
+* Requires a plugin, could probably be done through other things in the Klog.
+* Uses the Klog, Due to a limitation, only 1 client can access the Klog at once.
 
 
 ## Building
