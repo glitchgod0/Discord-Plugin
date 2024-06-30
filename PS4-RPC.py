@@ -5,7 +5,7 @@ from pypresence import Presence
 import time
 
 # Load game titles from JSON file
-with open('ps4IDs.json') as f:
+with open('ps4IDs.json', 'r', encoding='utf-8') as f:
     game_titles = json.load(f)
 
 def print_game_title(title_id):
@@ -18,7 +18,7 @@ def print_game_title(title_id):
 file_path = 'AppIdp.json'
 
 # Read JSON data from file
-with open(file_path, 'r', encoding="utf-8") as f:
+with open(file_path, encoding="utf-8") as f:
     json_data = json.load(f)
 
 # Assuming there's only one object in the list, as in your example
