@@ -8,7 +8,15 @@ GoldHEN Plugin and python script used for rich presence on jailbroken PS4 system
 /data/GoldHEN/plugins/Discord-Plugin.prx=true
 ```
 
+## ps4IDS.json
+This is the list of game Title ID's, it is formated as
+* System Apps
+* Apps (Spotify, YouTube, etc)
+* Games
+* Homebrew (Apps and Games)
+
 ## Current Flaws
+* Games list is a bit empty atm (Open PR's!!)
 * Requires a plugin, could probably be done through other things in the Klog.
 * Uses the Klog, Due to a limitation, only 1 client can access the Klog at once.
 
