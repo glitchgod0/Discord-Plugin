@@ -13,6 +13,7 @@
 
 
   { "TitleID": "CUSA01780", "Title": "Spotify" },
+  { "TitleID": "CUSA01116", "Title": "YouTube" },
 
 
 
@@ -110,6 +111,8 @@
   { "TitleID": "CUSA05333", "Title": "The Elder Scrolls V: Skyrim Special Edition" },
   { "TitleID": "CUSA00110", "Title": "Escape Plan" },
   { "TitleID": "CUSA00153", "Title": "Escape Plan" },
+  { "TitleID": "CUSA32740", "Title": "The Escapists" },
+  { "TitleID": "CUSA06267", "Title": "The Escapists 2" },
   { "TitleID": "CUSA01082", "Title": "The Evil Within" },
   { "TitleID": "CUSA00375", "Title": "The Evil Within" },
   { "TitleID": "CUSA08974", "Title": "The Evil Within 2" },
@@ -365,6 +368,7 @@
   { "TitleID": "CUSA01222", "Title": "Street Fighter V" },
   { "TitleID": "CUSA01200", "Title": "Street Fighter V" },
   { "TitleID": "CUSA00045", "Title": "Super Motherlode" },
+  { "TitleID": "CUSA16273", "Title": "The Survivalists" },
   { "TitleID": "CUSA06014", "Title": "Tekken 7" },
   { "TitleID": "CUSA00737", "Title": "Terraria" },
   { "TitleID": "CUSA00250", "Title": "Thief" },
@@ -376,6 +380,7 @@
   { "TitleID": "CUSA00107", "Title": "Tomb Raider: Definitive Edition" },
   { "TitleID": "CUSA00317", "Title": "Tomb Raider: Definitive Edition" },
   { "TitleID": "CUSA02852", "Title": "Tony Hawk's Pro Skater 5" },
+  { "TitleID": "CUSA17922", "Title": "Tony Hawk's Pro Skater 1+2" },
   { "TitleID": "CUSA00534", "Title": "TowerFall Ascension" },
   { "TitleID": "CUSA00875", "Title": "Transformers: Rise of the Dark Spark" },
   { "TitleID": "CUSA00270", "Title": "Transformers: Rise of the Dark Spark" },
@@ -385,29 +390,47 @@
   { "TitleID": "CUSA00259", "Title": "Trials Fusion" },
   { "TitleID": "CUSA00304", "Title": "Trials Fusion" },
   { "TitleID": "CUSA00217", "Title": "Trine 2: Complete Story" },
-  { "TitleID": "CUSA00409", "Title": "Outlast" },
-  { "TitleID": "CUSA00409", "Title": "Outlast" },
-  { "TitleID": "CUSA00409", "Title": "Outlast" },
-
-
-
-
-
-
-
-
-
-
-
-
-  { "TitleID": "CUSA32740", "Title": "The Escapists" },
-  { "TitleID": "CUSA06267", "Title": "The Escapists 2" },
-  { "TitleID": "CUSA16273", "Title": "The Survivalists" },
-  { "TitleID": "CUSA17922", "Title": "Tony Hawk's Pro Skater 1+2" },
+  { "TitleID": "CUSA00341", "Title": "Uncharted 4: A Thief's End" },
+  { "TitleID": "CUSA00917", "Title": "Uncharted 4: A Thief's End" },
+  { "TitleID": "CUSA02320", "Title": "Uncharted: The Nathan Drake Collection" },
+  { "TitleID": "CUSA02344", "Title": "Uncharted: The Nathan Drake Collection" },
+  { "TitleID": "CUSA07737", "Title": "Uncharted: The Lost Legacy" },
+  { "TitleID": "CUSA10483", "Title": "Unravel 2" },
+  { "TitleID": "CUSA00359", "Title": "Until Dawn" },
+  { "TitleID": "CUSA00071", "Title": "Velocity 2X" },
+  { "TitleID": "CUSA01019", "Title": "The Walking Dead: A Telltale Games Series Game of the Year Edition" },
+  { "TitleID": "CUSA01011", "Title": "The Walking Dead: A Telltale Games Series Game of the Year Edition" },
+  { "TitleID": "CUSA01010", "Title": "The Walking Dead: A Telltale Games Series - Season Two" },
+  { "TitleID": "CUSA01017", "Title": "The Walking Dead: A Telltale Games Series - Season Two" },
+  { "TitleID": "CUSA00106", "Title": "Warframe" },
+  { "TitleID": "CUSA00182", "Title": "War Thunder" },
+  { "TitleID": "CUSA00588", "Title": "Warriors Orochi 3: Ultimate" },
+  { "TitleID": "CUSA00016", "Title": "Watch Dogs" },
+  { "TitleID": "CUSA04459", "Title": "Watch Dogs 2" },
+  { "TitleID": "CUSA00527", "Title": "The Witcher 3: Wild Hunt" },
+  { "TitleID": "CUSA01032", "Title": "World Soccer Winning Eleven 2015" },
+  { "TitleID": "CUSA00320", "Title": "Wolfenstein: The New Order" },
+  { "TitleID": "CUSA07384", "Title": "Wolfenstein II: The New Colossus" },
+  { "TitleID": "CUSA01009", "Title": "The Wolf Among Us" },
+  { "TitleID": "CUSA01018", "Title": "The Wolf Among Us" },
+  { "TitleID": "CUSA00824", "Title": "Worms Battlegrounds" },
+  { "TitleID": "CUSA00781", "Title": "WWE 2K15" },
+  { "TitleID": "CUSA02671", "Title": "WWE 2K16" },
+  { "TitleID": "CUSA05133", "Title": "Yakuza 0" },
+  { "TitleID": "CUSA07615", "Title": "Yakuza Kiwami" },
+  { "TitleID": "CUSA09660", "Title": "Yakuza 6 " },
+  { "TitleID": "CUSA00186", "Title": "Zen Pinball 2" },
+  { "TitleID": "CUSA01886", "Title": "Zombi" },
+  { "TitleID": "CUSA01910", "Title": "Zombi" },
+  { "TitleID": "CUSA01837", "Title": "Zombie Army Trilogy" },
+  { "TitleID": "CUSA01357", "Title": "彼女（あのコ）はオレからはなれない" },
 
 
 
   { "TitleID": "NPXS39041", "Title": "Homebrew Store" },
+  { "TitleID": "ITEM00001", "Title": "ItemzFlow" },
+  { "TitleID": "FLTZ00001", "Title": "Remote PKG Installer" },
+  { "TitleID": "LAPY20001", "Title": "PS4-Xplorer" },
   { "TitleID": "LAPY20009", "Title": "PS4-Xplorer 2.0" },
   { "TitleID": "SMSR00001", "Title": "Sonic SMS Remake" },
   { "TitleID": "CHTM00777", "Title": "PS4 Cheats Manager" }  
