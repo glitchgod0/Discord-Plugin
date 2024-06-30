@@ -18,7 +18,7 @@ def print_game_title(title_id):
 file_path = 'AppIdp.json'
 
 # Read JSON data from file
-with open(file_path, 'r') as f:
+with open(file_path, encoding="utf-8") as f:
     json_data = json.load(f)
 
 # Assuming there's only one object in the list, as in your example
@@ -35,6 +35,7 @@ RPC.connect()
 while True:
     try:
         with Telnet(ip_address, 3232) as tn:
+            print("Connected!")
             tn.read_until(b"[SL] AppFocusChanged ")
 
             # Read the next 10 characters
@@ -45,23 +46,25 @@ while True:
             UnCleanData = re.sub(r"[\([{})\]]", "", HalfCleanData) 
             CleanData = UnCleanData[13:] 
             game_title = print_game_title(CleanData)
-            print(CleanData)
+
             if game_title:
                 RPC.update(
                     details="Playing:",  # Example details
                     state=game_title,
                     start=time.time(),
                 )
-                print(f"Game title for {CleanData}: {game_title}")
+                print(f"Game title found for {CleanData}: {game_title}")
             else:
                 RPC.update(
                     details="Playing:",  # Example details
                     state=CleanData,
                     start=time.time(),
                 )
-                print(f"No game found with title ID {CleanData}, Please open an issue on the github to add more games to the ps4IDs.json ")
+                print(f"No game title found with title ID: {CleanData}, Please open an issue/PR on the github to add more games to the ps4IDs.json ")
 
     except EOFError as e:
+        "EOF-Error, Reconnecting..."
         time.sleep(1)  # Wait for 1 second before retrying
     except Exception as e:
+        "Error, Reconnecting..."
         time.sleep(1)  # Wait for 1 second before retrying
