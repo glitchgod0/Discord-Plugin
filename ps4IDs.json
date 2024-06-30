@@ -159,6 +159,34 @@
   { "TitleID": "CUSA00411", "Title": "Grand Theft Auto V" },
   { "TitleID": "CUSA01113", "Title": "Gravity Rush: Remaster" },
   { "TitleID": "CUSA00848", "Title": "Guilty Gear Xrd -SIGN-" },
+  { "TitleID": "CUSA06211", "Title": "Hatsune Miku: Project DIVA Future Tone" },
+  { "TitleID": "CUSA02945", "Title": "Helldivers" },
+  { "TitleID": "CUSA01021", "Title": "Horizon Zero Dawn" },
+  { "TitleID": "CUSA07319", "Title": "Horizon Zero Dawn" },
+  { "TitleID": "CUSA07320", "Title": "Horizon Zero Dawn" },
+  { "TitleID": "CUSA05682", "Title": "Horizon Zero Dawn" },
+  { "TitleID": "CUSA05661", "Title": "Horizon Zero Dawn" },
+  { "TitleID": "CUSA01967", "Title": "Horizon Zero Dawn" },
+  { "TitleID": "CUSA07326", "Title": "Horizon Zero Dawn" },
+  { "TitleID": "CUSA10211", "Title": "Horizon Zero Dawn: Complete Edition" },
+  { "TitleID": "CUSA10212", "Title": "Horizon Zero Dawn: Complete Edition" },
+  { "TitleID": "CUSA10213", "Title": "Horizon Zero Dawn: Complete Edition" },
+  { "TitleID": "CUSA10218", "Title": "Horizon Zero Dawn: Complete Edition" },
+  { "TitleID": "CUSA10234", "Title": "Horizon Zero Dawn: Complete Edition" },
+  { "TitleID": "CUSA10237", "Title": "Horizon Zero Dawn: Complete Edition" },
+
+  { "TitleID": "CUSA00305", "Title": "Infamous: First Light" },
+  { "TitleID": "CUSA00004", "Title": "Infamous: Second Son" },
+  { "TitleID": "CUSA00051", "Title": "Injustice: Gods Among Us" },
+  { "TitleID": "CUSA00079", "Title": "Injustice: Gods Among Us" },
+  { "TitleID": "CUSA02172", "Title": "Journey Collector's Edition" },
+  { "TitleID": "CUSA01493", "Title": "Just Cause 3" },
+  { "TitleID": "CUSA02747", "Title": "Just Cause 3" },
+  { "TitleID": "CUSA00195", "Title": "Just Dance 2014" },
+  { "TitleID": "CUSA00189", "Title": "Just Dance 2014" },
+  { "TitleID": "CUSA00677", "Title": "Just Dance 2015" },
+  { "TitleID": "CUSA00676", "Title": "Just Dance 2015" },
+
 
 
 
@@ -170,7 +198,7 @@
 
 
  
-  { "TitleID": "CUSA06211", "Title": "Hatsune Miku: Project DIVA Future Tone" },
+
   { "TitleID": "CUSA00265", "Title": "Minecraft" },   
   { "TitleID": "CUSA05996", "Title": "Night in the Woods" },
   { "TitleID": "CUSA01127", "Title": "P.T." },
